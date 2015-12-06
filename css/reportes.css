@@ -1,0 +1,36 @@
+.cReportBus{
+	width: 500px;
+	margin: 20px auto;
+	text-align: center;
+}
+.cBusUno{
+	width: 500px;
+	height: 110px;
+}
+.cFechaBus{
+	float: left;
+	width: 250px;
+	height: 110px;
+}
+.btnBusRep{
+	width: 250px;
+	height: 50px;
+	border: 0px solid;
+	-webkit-border-radius: 5px;
+	        border-radius: 5px;
+	line-height: 50px;
+	font-family: "Gotham-Bold";
+	font-size: 16px;
+	background-color: #003366;
+	color: #FFF;
+}
+.optReport{
+	width: 200px;
+	height: 40px;
+	border: 1px solid;
+	padding: 0px 10px;
+	border-color: #003366;
+	-webkit-border-radius: 5px;
+	        border-radius: 5px;
+	font-size: 20px;
+}

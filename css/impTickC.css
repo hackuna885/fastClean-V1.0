@@ -1,0 +1,84 @@
+@font-face{
+	font-family:"Gotham-Book";
+	src: url(fonts/Gotham-Book.otf);
+}
+@font-face{
+	font-family:"Gotham-Bold";
+	src: url(fonts/Gotham-Bold.otf);
+}
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: monospace;
+	font-size: 15px;
+}
+html, body{
+	height: 100%;
+}
+.main_wrapper{
+	min-height: 100%;
+	position: relative;
+}
+.tickImpre{
+	float: left;
+	text-align: center;
+	width: 900px;
+	border: 1px solid;
+}
+.imglogo{
+	width: 120px;
+}
+.imptxt{
+	padding: 0px 15px;
+}
+.centTab{
+	margin: 0px auto;
+	padding: 10px;
+}
+.tabTicket{
+	padding: 0px 3px;
+	font-family: monospace;
+}
+.tabTicketDer{
+	text-align: right;
+	padding: 0px 3px;
+	font-family: monospace;
+}
+.txtTicketAIz{
+	padding: 0px 15px;
+	font-family: monospace;
+	text-align: left;
+}
+.pChico{
+	margin: 0px 15px;
+}
+.botonera{
+	padding: 0px 10px;
+	width: 280px;
+	float: left;
+}
+.btnAct{
+	width: 100%;
+	height: 50px;
+	border: 0px solid;
+	-webkit-border-radius: 5px;
+	        border-radius: 5px;
+	margin-top: 5px;
+	line-height: 50px;
+	font-family: "Gotham-Bold";
+	font-size: 16px;
+	color: #FFF;
+}
+#ticket{
+	background-color: #003366;
+}
+#cancel{
+	background-color: #E91E63;
+}
+.Enc{
+	padding: 0px 10px;
+	font-family: "Gotham-Bold";
+}
+.tTab{
+	padding: 0px 10px;
+}

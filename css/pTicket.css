@@ -1,0 +1,142 @@
+@font-face {
+    font-family: 'free_3_of_9regular';
+    src: url('fonts/code39/free3of9-webfont.eot');
+    src: url('fonts/code39/free3of9-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/code39/free3of9-webfont.woff2') format('woff2'),
+         url('fonts/code39/free3of9-webfont.woff') format('woff'),
+         url('fonts/code39/free3of9-webfont.ttf') format('truetype'),
+         url('fonts/code39/free3of9-webfont.svg#free_3_of_9regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+.pTicket{
+	position: absolute;
+	width: 987px;
+	height: auto;
+	text-align: center;
+}
+.c1Centro{
+	width: 602px;
+	text-align: center;
+	margin: 0px auto;
+}
+.tituloEnt{
+	padding: 10px 0px;
+	color: #FFF;
+	background-color: #E91E63;
+	-webkit-border-radius: 3px;
+	        border-radius: 3px;
+}
+.ticket1{
+	float: left;
+	width: 300px;
+	height: auto;
+	border: 1px solid;
+}
+.cIzqUno{
+	float: left;
+	width: 300px;
+	height: auto;
+}
+.cDerUno{
+	float: right;
+	width: 300px;
+	height: auto;
+}
+.cDerUno2{
+	float: right;
+	width: 300px;
+	height: 330px;
+	overflow-y: scroll;
+}
+.txtTicket{
+	padding: 0px 10px;
+	font-family: monospace;
+}
+.txtTicketAIz{
+	padding: 0px 10px;
+	font-family: monospace;
+	text-align: left;
+}
+.txtTicketCod{
+	font-size: 40px;
+	font-family: 'free_3_of_9regular';
+}
+.centTab{
+	margin: 0px auto;
+}
+.centTab2{
+	margin: 0px auto;
+	border-collapse: separate;
+  	border-spacing: 0px 0px;
+}
+.tabTicket{
+	padding: 0px 3px;
+	font-family: monospace;
+}
+.tabTicketDer{
+	text-align: right;
+	padding: 0px 3px;
+	font-family: monospace;
+}
+.pChico{
+	margin: 0px 10px;
+}
+.cForm{
+	float: left;
+	padding: 0px 10px 0px 10px;
+	width: 280px;
+	height: 422px;
+	padding-top: 50px;
+}
+.inRegC{
+	text-align: center;
+	font-family: "Gotham-Bold";
+	font-size: 18px;
+	color: #003366;
+	width: 200px;
+	height: 40px;
+	padding: 0px 10px;
+	margin: 0px 0px;
+	border: 1px solid;
+	border-color: #003366;
+	-webkit-border-radius: 5px;
+	        border-radius: 5px;
+}
+.btnEntrega{
+	text-align: center;
+	font-family: "Gotham-Bold";
+	font-size: 16px;
+	width: 200px;
+	height: 50px;
+	color: #FFF;
+	border: 0px solid;
+	background-color: #E91E63;
+	-webkit-border-radius: 5px;
+	        border-radius: 5px;
+}
+.cajaBold{
+	font-family: "Gotham-Bold";
+	font-size: 18px;
+	color: #003366;
+}
+.cuadroTablaCat{
+	margin-top: 10px;
+	height: 388px;
+	overflow-y: scroll;
+}
+.cuadroTablaCat2{
+	margin-top: 10px;
+	height: 388px;
+}
+.encTab{
+	background-color: #003366;
+	color: #FFF;
+}
+.clEncTab{
+	padding: 5px 10px;
+}
+.tabDer{
+	text-align: right;
+}

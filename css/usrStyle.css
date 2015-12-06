@@ -1,0 +1,46 @@
+.pTicket1{
+	position: absolute;
+	width: 987px;
+	height: 300px;
+	text-align: center;
+}
+.c1Centro1{
+	width: 602px;
+	text-align: center;
+	margin: 0px auto;
+}
+.pTicket2{
+	position: absolute;
+	width: 987px;
+	height: 350px;
+	margin-top: 300px;
+	text-align: center;
+}
+.c1Centro2{
+	width: 602px;
+	text-align: center;
+	margin: 0px auto;
+}
+.tabScroll{
+	height: 165px;
+	overflow-y: scroll;
+}
+.cDerecho0 h2{
+	text-align: center;
+	font-size: 20px;
+	padding: 3px 0px;
+	font-family: "Gotham-Bold";
+	color: #FFF;
+	background-color: #003366;
+}
+.p1x{
+	width: 150px;
+	font-size: 12px;
+}
+.p2x{
+	width: 150px;
+	font-size: 13px;
+}
+.inRefresh .inRegC{
+	margin-left: -5px;
+}
